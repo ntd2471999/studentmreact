@@ -1,0 +1,25 @@
+[
+    {
+        "id" : 1 ,
+        "username" : "Thanh Duy",
+        "sdt" : "012312312",
+        "quyen" : 1
+
+    },
+
+    {
+        "id" : 2 ,
+        "username" : "Văn Thanh",
+        "sdt" : "0908212313",
+        "quyen" : 2
+
+    }
+    ,
+    {
+        "id" : 3 ,
+        "username" : "Văn Dũng",
+        "sdt" : "81231232",
+        "quyen" : 2
+
+    }
+]
